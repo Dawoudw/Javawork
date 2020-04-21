@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="695px" height="447px" viewBox="0 0 695 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>decorstudio-stroke</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-374.000000, -1777.000000)">
+            <g id="Group-Copy-7" sketch:type="MSLayerGroup" transform="translate(162.000000, 1700.000000)">
+                <g id="decorstudio-stroke" transform="translate(212.000000, 78.000000)" sketch:type="MSShapeGroup">
+                    <rect id="bg" stroke-opacity="0.0147192029" stroke="#FFFFFF" x="0" y="0" width="695" height="446"></rect>
+                    <g id="imac" transform="translate(79.000000, 0.000000)" stroke="#232323" fill="#FFFFFF">
+                        <rect id="Rectangle-289-Copy" x="0" y="0" width="539" height="330" rx="13"></rect>
+                        <rect id="Rectangle-289" x="21" y="22" width="496" height="279"></rect>
+                        <path d="M214.56697,330 C214.566882,330.001964 212.712635,371.040865 208.11802,382.349679 C204.817945,390.479212 188.762395,402.484727 188.04487,405.516139 C187.01347,409.860923 204.105145,409.853697 204.105145,409.853697 L333.32647,409.853697 C333.32647,409.853697 349.531195,409.934993 349.531195,405.516139 C349.531195,402.556989 332.313295,390.435855 328.873495,382.001916 C324.331159,370.851921 322.422193,330.007438 322.421845,330.000001 C292.515508,330 244.649728,330 214.56697,330 L214.56697,330 Z" id="Clip-2"></path>
+                        <path d="M242,50 L295.880112,50" id="Path-282"></path>
+                        <path d="M242,94 L295.880112,94" id="Path-282-Copy"></path>
+                        <path d="M86.059944,122 L182.5,122" id="Path-282-Copy-2"></path>
+                        <path d="M22,150 L516.5,150" id="Path-282-Copy-4"></path>
+                        <path d="M353,122 L449.440056,122" id="Path-282-Copy-3"></path>
+                        <rect id="Mask" x="190" y="120" width="19" height="4"></rect>
+                        <rect id="Mask" x="225" y="120" width="19" height="4"></rect>
+                        <rect id="Mask" x="261" y="120" width="19" height="4"></rect>
+                        <rect id="Mask" x="297" y="120" width="14" height="4"></rect>
+                        <rect id="Mask" x="326" y="120" width="21" height="4"></rect>
+                        <rect id="Mask" x="242" y="75" width="46" height="11"></rect>
+                        <rect id="Mask" x="242" y="57" width="46" height="11"></rect>
+                        <rect id="Mask" x="149" y="218" width="206" height="22"></rect>
+                        <rect id="Mask" x="88" y="68" width="40" height="7"></rect>
+                        <rect id="Mask" x="406" y="68" width="44" height="7"></rect>
+                    </g>
+                    <g id="ipad" transform="translate(434.000000, 210.000000)">
+                        <path d="M144.978484,0.209549254 C150.319948,0.209549254 154.666391,4.37538843 154.666391,9.49677221 L154.633166,212.211368 C154.633166,217.331914 150.286723,221.497753 144.945258,221.497753 L9.90737165,221.497753 C4.56503287,221.497753 0.218589967,217.331914 0.218589967,212.211368 L0.252690002,9.49677221 C0.252690002,4.37538843 4.59825854,0.209549254 9.94059733,0.209549254 L144.978484,0.209549254" id="Path" stroke="#232323" fill="#FFFFFF"></path>
+                        <ellipse id="Oval-1184" stroke="#232323" fill="#FFFFFF" cx="77.5" cy="211" rx="6.03896104" ry="6"></ellipse>
+                        <rect id="Rectangle-298" stroke="#232323" fill="#FFFFFF" x="75.487013" y="209" width="4.02597403" height="4"></rect>
+                        <path d="M6.79109286,201.404303 L6.79109286,19 L148.404726,19 L148.404726,201.404303 L6.79109286,201.404303 Z" id="Fill-8" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M78.9773691,10.2939739 C78.9773691,10.9596295 78.4116583,11.50152 77.7156678,11.50152 C77.0179287,11.50152 76.4530922,10.9596295 76.4530922,10.2939739 C76.4530922,9.62664572 77.0179287,9.08810021 77.7156678,9.08810021 C78.4116583,9.08810021 78.9773691,9.62664572 78.9773691,10.2939739 L78.9773691,10.2939739 Z" id="Stroke-9" stroke="#232323" fill="#FFFFFF"></path>
+                        <rect id="Mask" stroke="#000000" x="55.3571429" y="37" width="46.2987013" height="7"></rect>
+                        <rect id="Mask" stroke="#000000" x="61.3961039" y="126" width="33.2142857" height="7"></rect>
+                        <ellipse id="Mask" stroke="#000000" cx="33.2142857" cy="149" rx="7.04545455" ry="7"></ellipse>
+                        <ellipse id="Mask" stroke="#000000" cx="33.2142857" cy="175" rx="7.04545455" ry="7"></ellipse>
+                        <ellipse id="Mask" stroke="#000000" cx="77.5" cy="149" rx="7.04545455" ry="7"></ellipse>
+                        <ellipse id="Mask" stroke="#000000" cx="77.5" cy="175" rx="7.04545455" ry="7"></ellipse>
+                        <ellipse id="Mask" stroke="#000000" cx="121.785714" cy="149" rx="7.04545455" ry="7"></ellipse>
+                        <ellipse id="Mask" stroke="#000000" cx="121.785714" cy="175" rx="7.04545455" ry="7"></ellipse>
+                        <path d="M6.03896104,108 L148.457792,108" id="Path-282-Copy-5" stroke="#232323" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="iphone" transform="translate(553.000000, 292.000000)">
+                        <path d="M61.0679762,153.32327 C67.1921548,153.32327 72.1570238,148.352637 72.1570238,142.221349 L72.1900476,11.3987842 C72.1900476,5.26662599 67.2251786,0.29599322 61.101,0.29599322 L11.7990595,0.29599322 C5.67575,0.29599322 0.710011905,5.26662599 0.710011905,11.3987842 L0.676988095,142.221349 C0.676988095,148.352637 5.64272619,153.32327 11.7660357,153.32327 L61.0679762,153.32327 L61.0679762,153.32327 Z" id="Fill-1" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M29.6336548,141.694443 C29.6336548,145.436556 32.6579405,148.464353 36.3957143,148.464353 C40.13175,148.464353 43.1577738,145.436556 43.1577738,141.694443 C43.1577738,137.95407 40.13175,134.926273 36.3957143,134.926273 C32.6579405,134.926273 29.6336548,137.95407 29.6336548,141.694443 L29.6336548,141.694443 Z" id="Clip-5" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M66.8620119,130.129751 L6,130.129751 L6,22 L66.8567976,22.0069605 L66.8620119,130.129751 L66.8620119,130.129751 Z" id="Fill-7" stroke="#232323" fill="#FFFFFF"></path>
+                        <rect id="Rectangle-303" stroke="#232323" fill="#FFFFFF" x="11" y="57" width="52" height="6"></rect>
+                        <rect id="Rectangle-303-Copy" stroke="#232323" fill="#FFFFFF" x="11" y="70.0648757" width="52" height="6"></rect>
+                        <rect id="Rectangle-303-Copy-2" stroke="#232323" fill="#FFFFFF" x="11" y="83.0648757" width="52" height="6"></rect>
+                        <path d="M38.707381,143.375392 C38.707381,143.728635 38.4258095,144.012273 38.0729762,144.012273 L34.7201905,144.012273 C34.365619,144.012273 34.0840476,143.728635 34.0840476,143.375392 L34.0840476,140.017844 C34.0840476,139.661991 34.365619,139.380093 34.7201905,139.380093 L38.0729762,139.380093 C38.4258095,139.380093 38.707381,139.661991 38.707381,140.017844 L38.707381,143.375392 L38.707381,143.375392 Z" id="Stroke-8" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M30.8190357,12.4875729 C29.9786667,12.4875729 29.2982024,13.1705672 29.2982024,14.0119119 C29.2982024,14.8532565 29.9786667,15.5336407 30.8190357,15.5336407 L42.0453929,15.5336407 C42.8848929,15.5336407 43.5653571,14.8532565 43.5653571,14.0119119 C43.5653571,13.1705672 42.8848929,12.4875729 42.0453929,12.4875729 L30.8190357,12.4875729 L30.8190357,12.4875729 Z" id="Clip-12" stroke="#232323" fill="#FFFFFF"></path>
+                        <rect id="Mask" stroke="#000000" x="13" y="41" width="49" height="7"></rect>
+                        <rect id="Mask" stroke="#000000" x="29" y="94" width="14" height="5"></rect>
+                        <circle id="Mask" stroke="#000000" cx="21" cy="122" r="3"></circle>
+                        <circle id="Mask" stroke="#000000" cx="31.0840476" cy="122" r="3"></circle>
+                        <circle id="Mask" stroke="#000000" cx="41.0840476" cy="122" r="3"></circle>
+                        <circle id="Mask" stroke="#000000" cx="51.0840476" cy="122" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

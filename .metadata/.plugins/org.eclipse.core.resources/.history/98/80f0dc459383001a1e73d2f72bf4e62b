@@ -1,0 +1,90 @@
+package dev.wsd.daos;
+
+import java.util.ArrayList;
+
+import dev.wsd.entities.Reimbursement;
+import dev.wsd.enums.REIMBURSEMENT_STATUS;
+
+public class ReimbursementDAO {
+
+	public static IReimbursementDAO ReimbursementDAOImp = new IReimbursementDAO() {
+		
+		@Override
+		public boolean updateReimbursement(Reimbursement reimbursmnt) {
+			// TODO Auto-generated method stub
+			return false;
+		}
+		
+		@Override
+		public float getTotalRequestsByMangerId(int id) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public float getTotalDeniedMoneyByMangerId(int id) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public float getTotalApprovedMoneyByMangerId(int id) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public float getTotalApprovedGroupByManger() {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public Reimbursement getReimbursementById(int id) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		
+		@Override
+		public float getMaxRequestsByEmpId(int id) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public float getAvgReimbursements() {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+		@Override
+		public ArrayList<Reimbursement> getAllReimbursementsByEmployeeId(int employeeId) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		
+		@Override
+		public ArrayList<Reimbursement> getAllReimbursementsByApproverId(int approverId) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		
+		@Override
+		public ArrayList<Reimbursement> getAllReimbursements() {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		
+		@Override
+		public boolean changeReimbursementStatus(REIMBURSEMENT_STATUS status) {
+			// TODO Auto-generated method stub
+			return false;
+		}
+		
+		@Override
+		public Reimbursement addReimbursement(Reimbursement reimbursmnt) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+	};
+}

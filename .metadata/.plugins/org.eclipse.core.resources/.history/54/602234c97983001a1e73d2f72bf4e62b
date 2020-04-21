@@ -1,0 +1,7 @@
+package dev.wsd.enums;
+
+public enum REIMBURSEMENT_STATUS {
+Submitted,
+Approved ,
+Denied;
+}

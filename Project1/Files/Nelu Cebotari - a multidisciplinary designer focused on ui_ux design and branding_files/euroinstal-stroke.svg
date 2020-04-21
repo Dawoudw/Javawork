@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="695px" height="446px" viewBox="0 0 695 446" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>euroinstal-stroke</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M531.003906,107.402344 L549.753906,367.154297 L508.253906,371.230469 L509.865234,108.125 L531.003906,107.402344 Z"></path>
+        <path id="path-2" d="M178.396484,100.621094 L183.658203,371.912109 L160.844727,377.107422 L154.738281,98.0615234 L178.396484,100.621094 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-372.000000, -2524.000000)">
+            <g id="Group-Copy-11" sketch:type="MSLayerGroup" transform="translate(160.000000, 2446.000000)">
+                <g id="euroinstal-stroke" transform="translate(212.000000, 78.000000)">
+                    <rect id="bg" stroke-opacity="0.0116904438" stroke="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="695" height="446"></rect>
+                    <path d="M220.356445,108.462891 C220.356445,108.462891 220.477813,50.4355469 252.060685,50.4355469 C283.643556,50.4355469 283.643555,115.892578 283.643555,115.892578" id="Path-357-Copy" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <path d="M422.408717,124.796875 C422.408717,124.796875 416.627467,65.2324219 446.793483,65.2324219 C476.215359,65.2324219 478.250514,130.306641 478.250514,130.306641" id="Path-357-Copy-2" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(450.107679, 97.769531) scale(-1, 1) translate(-450.107679, -97.769531) "></path>
+                    <path d="M250.185547,88.1484375 C250.185547,88.1484375 250.306915,30.1210938 281.889786,30.1210938 C313.472657,30.1210937 313.472656,95.578125 313.472656,95.578125" id="Path-357" stroke="#232323" sketch:type="MSShapeGroup"></path>
+                    <path d="M402.495322,125.355469 C402.495322,125.355469 398.901572,58 424.375552,58 C453.131066,58 453.131064,129.306641 453.131064,129.306641" id="Path-357-Copy-3" stroke="#232323" sketch:type="MSShapeGroup" transform="translate(427.726177, 93.653320) scale(-1, 1) translate(-427.726177, -93.653320) "></path>
+                    <g id="Path-362">
+                        <use stroke="#000000" stroke-width="1" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Path-362-Copy">
+                        <use stroke="#000000" stroke-width="1" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(169.198242, 237.584473) scale(-1, 1) translate(-169.198242, -237.584473) " xlink:href="#path-2"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M155.207031,370.851562 L184.240234,354.417969" id="Path-370" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <path d="M549.111328,367.738281 L494.011719,336.335938" id="Path-371" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <path d="M336.820313,100.179688 L510.234375,133.076172 L510.234375,362.814453 L339.102334,371 L336.820313,100.179688 Z" id="Path-356-Copy" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(423.527344, 235.589844) scale(-1, 1) translate(-423.527344, -235.589844) "></path>
+                    <path d="M183.738281,81.1640625 L375.234375,103.691406 L377.492188,368.257812 L176.882812,377.375 L183.738281,81.1640625 Z" id="Path-356" stroke="#232323" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <g id="logo" transform="translate(262.000000, 193.000000)" sketch:type="MSShapeGroup">
+                        <path d="M0.703636364,0.0777777778 L42.2181818,2.07777778 L42.2181818,6.2 L5.92545455,4.2 L5.92545455,10.1777778 L42.296364,12.0115832 L42.296364,16.5521239 L0.703636364,14.3 L0.703636364,0.0777777778 Z" id="Fill-2" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M42.2181818,42.2555556 L42.2181818,47.3777778 L0.703636364,46.3777778 L0.703636364,41.2555556 L42.2181818,42.2555556 Z" id="Fill-3" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M0.703636364,35.8888889 L0.703636364,20.6666667 L42.2181818,21.6666667 L42.2181818,26.7888889 L4.92545455,25.7888889 L4.92545455,30.7666667 L42.2963636,32.7666667 L42.2963636,36.8888889 L0.703636364,35.8888889 Z" id="Fill-15" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M0,55 L27,55.7731661 L27,65.2084942 L0,65 L0,55 Z" id="Rectangle-342" stroke="#000000"></path>
+                        <path d="M0,70 L31,70.7731661 L31,80.2084942 L0,80 L0,70 Z" id="Rectangle-342-Copy" stroke="#000000"></path>
+                    </g>
+                    <g id="logo-copy" transform="translate(397.000000, 205.000000)" sketch:type="MSShapeGroup">
+                        <path d="M0.703636364,4.07777778 L37.3001062,0.628745471 L37.3001062,5.58326284 L4.36438723,8.45758906 L4.36438723,12.417376 L37.3001062,10.0904345 L37.3001062,14.5913567 L0.703636364,17.3 L0.703636364,4.07777778 Z" id="Fill-2" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M36.0448496,38.1126377 L36.0448496,42.9044854 L0.703636364,45.2555556 L0.703636364,40.3300857 L36.0448496,38.1126377 Z" id="Fill-3" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M0.703636364,35.7805959 L0.703636364,22.5621833 L36.6619417,19.0124227 L36.6619417,23.6666667 L4.92545433,26.3720843 L4.92545433,30.7450735 L36.6619417,28.583605 L36.6619417,33.4939977 L0.703636364,35.7805959 Z" id="Fill-15" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M0,52.7731661 L22,51.9609274 L22,60.2245516 L0,61 L0,52.7731661 Z" id="Rectangle-342" stroke="#000000"></path>
+                        <path d="M0,65.404963 L27,64.39338 L27,73.8009375 L0,74.5395049 L0,65.404963 Z" id="Rectangle-342-Copy" stroke="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

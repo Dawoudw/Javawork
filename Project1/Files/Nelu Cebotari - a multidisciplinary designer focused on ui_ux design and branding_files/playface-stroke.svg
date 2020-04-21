@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="212px" height="212px" viewBox="0 0 212 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>playface-stroke</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-904.000000, -5139.000000)" fill="#FFFFFF">
+            <g id="Group-Copy-12" sketch:type="MSLayerGroup" transform="translate(740.000000, 5080.000000)">
+                <g id="playface-stroke" transform="translate(164.000000, 59.000000)" sketch:type="MSShapeGroup">
+                    <rect id="bg-copy-2" x="0" y="0" width="212" height="212"></rect>
+                    <path d="M132.741388,89.309456 L175.615978,64.7602956 L175.615978,146.38941 L131.74297,121.268575 L149.180136,111.173374 L159.843237,105 L149.180136,98.8266258 L132.741388,89.309456 Z" id="Rectangle-31" stroke="#232323"></path>
+                    <path d="M36.3840221,41.7661787 L145.606077,105 L36.3840221,168.233821 L36.3840221,41.7661787 Z" id="Rectangle-29" stroke="#232323"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

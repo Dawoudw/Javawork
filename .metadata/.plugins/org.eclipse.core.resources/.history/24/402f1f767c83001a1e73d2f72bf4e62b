@@ -1,0 +1,30 @@
+package dev.wsd.enums;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public enum REIMBURSEMENT_STATUS {
+
+	Submitted(1), Approved(2), Denied(3);
+
+	private int value;
+	private static Map map = new HashMap<>();
+
+	private REIMBURSEMENT_STATUS(int value) {
+		this.value = value;
+	}
+
+	static {
+		for (REIMBURSEMENT_STATUS status : REIMBURSEMENT_STATUS.values()) {
+			map.put(status.value, status);
+		}
+	}
+
+	public static REIMBURSEMENT_STATUS valueOf(int status) {
+		return (REIMBURSEMENT_STATUS) map.get(status);
+	}
+
+	public static int getValue() {
+		return value;
+	}
+}

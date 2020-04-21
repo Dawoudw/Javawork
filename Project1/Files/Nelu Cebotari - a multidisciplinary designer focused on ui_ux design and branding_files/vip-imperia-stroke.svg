@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="695px" height="447px" viewBox="0 0 695 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>vip-imperia-stroke</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-372.000000, -3260.000000)">
+            <g id="Group-Copy-8" sketch:type="MSLayerGroup" transform="translate(160.000000, 3183.000000)">
+                <g id="vip-imperia-stroke" transform="translate(212.000000, 78.000000)" sketch:type="MSShapeGroup">
+                    <rect id="bg" stroke-opacity="0.01" stroke="#FFFFFF" x="0" y="0" width="695" height="446"></rect>
+                    <g id="imac" transform="translate(79.000000, 0.000000)" stroke="#232323" fill="#FFFFFF">
+                        <rect id="Rectangle-289-Copy" x="0" y="0" width="539" height="330" rx="13"></rect>
+                        <rect id="Rectangle-289" x="21" y="22" width="496" height="279"></rect>
+                        <path d="M214.56697,330 C214.566882,330.001964 212.712635,371.040865 208.11802,382.349679 C204.817945,390.479212 188.762395,402.484727 188.04487,405.516139 C187.01347,409.860923 204.105145,409.853697 204.105145,409.853697 L333.32647,409.853697 C333.32647,409.853697 349.531195,409.934993 349.531195,405.516139 C349.531195,402.556989 332.313295,390.435855 328.873495,382.001916 C324.331159,370.851921 322.422193,330.007438 322.421845,330.000001 C292.515508,330 244.649728,330 214.56697,330 L214.56697,330 Z" id="Clip-2"></path>
+                        <g id="Group" transform="translate(146.000000, 37.000000)">
+                            <rect id="Rectangle-291" x="0" y="4" width="46" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-14" x="60" y="4" width="24" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-15" x="161" y="4" width="54" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-16" x="229" y="4" width="37" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-29" x="348" y="4" width="6" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-30" x="332" y="4" width="6" height="5"></rect>
+                            <path d="M125,252 L125,255 L122,255" id="Rectangle-364" transform="translate(123.500000, 253.500000) rotate(-315.000000) translate(-123.500000, -253.500000) "></path>
+                            <rect id="Rectangle-291-Copy-31" x="328" y="0" width="14" height="12"></rect>
+                            <rect id="Rectangle-291-Copy" x="14" y="160" width="219" height="21"></rect>
+                            <rect id="Rectangle-291-Copy-18" x="32" y="188" width="187" height="5"></rect>
+                            <rect id="Rectangle-291-Copy-17" x="62" y="139" width="124" height="17"></rect>
+                            <rect id="Rectangle-291-Copy-7" transform="translate(122.500000, 87.000000) scale(1, -1) translate(-122.500000, -87.000000) " x="77" y="57" width="91" height="60"></rect>
+                            <path d="M123.448242,246.289063 L123.448242,255.27306" id="Path-439"></path>
+                        </g>
+                    </g>
+                    <g id="ipad" transform="translate(435.000000, 210.000000)" stroke="#232323" fill="#FFFFFF">
+                        <path d="M145.277455,0 C150.638017,0 155,4.16583918 155,9.28722295 L154.966656,212.001819 C154.966656,217.122364 150.604673,221.288204 145.244111,221.288204 L9.72342208,221.288204 C4.36198278,221.288204 0,217.122364 0,212.001819 L0.034221953,9.28722295 C0.034221953,4.16583918 4.39532725,0 9.75676655,0 L145.277455,0" id="Path"></path>
+                        <circle id="Oval-1184" cx="78" cy="211" r="6"></circle>
+                        <rect id="Rectangle-298" x="76" y="209" width="4" height="4"></rect>
+                        <path d="M9,201.404303 L9,19 L147,19 L147,201.404303 L9,201.404303 Z" id="Fill-8-Copy"></path>
+                        <path d="M78.5079913,10.2058737 C78.5079913,10.8715293 77.9459302,11.4134198 77.25443,11.4134198 C76.5611924,11.4134198 76,10.8715293 76,10.2058737 C76,9.53854551 76.5611924,9 77.25443,9 C77.9459302,9 78.5079913,9.53854551 78.5079913,10.2058737 L78.5079913,10.2058737 Z" id="Stroke-9"></path>
+                        <path d="M8.30000305,33 L146.5,33" id="Path-282-Copy-6"></path>
+                        <g id="Path-282-Copy-9-+-Path-282-Copy-10" transform="translate(135.000000, 24.000000)">
+                            <path d="M0.5,4 L6,4" id="Path-282-Copy-9"></path>
+                            <path d="M0.5,1 L6,1" id="Path-282-Copy-10"></path>
+                        </g>
+                        <path d="M9,112 L146.5,112" id="Path-282-Copy-8"></path>
+                        <path d="M78.2527206,133 L78.2527206,127 L124.252721,127 L124.252721,133 L78.2527206,133 Z" id="Fill-8-Copy-5"></path>
+                        <path d="M78.2527206,144 L78.2527206,138 L124.252721,138 L124.252721,144 L78.2527206,144 Z" id="Fill-8-Copy-6"></path>
+                        <path d="M78.2527206,184 L78.2527206,177 L102.87364,177 L102.87364,184 L78.2527206,184 Z" id="Fill-8-Copy-8"></path>
+                        <path d="M78.2527206,172 L78.2527206,147 L124.252721,147 L124.252721,172 L78.2527206,172 Z" id="Fill-8-Copy-7"></path>
+                        <path d="M17,77 L17,57 L38.7472794,57 L38.7472794,77 L17,77 Z" id="Fill-8"></path>
+                        <path d="M49.1263603,77 L49.1263603,57 L70.8736397,57 L70.8736397,77 L49.1263603,77 Z" id="Fill-8-Copy-2"></path>
+                        <path d="M83.1263603,77 L83.1263603,57 L104.87364,57 L104.87364,77 L83.1263603,77 Z" id="Fill-8-Copy-3"></path>
+                        <path d="M116.12636,77 L116.12636,57 L137.87364,57 L137.87364,77 L116.12636,77 Z" id="Fill-8-Copy-4"></path>
+                        <rect id="Rectangle-291-Copy-8" x="55" y="42" width="46" height="4"></rect>
+                        <rect id="Rectangle-291-Copy-19" x="71" y="23" width="12" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-32" x="12" y="24" width="8" height="4"></rect>
+                        <rect id="Rectangle-291-Copy-20" x="39" y="130" width="21" height="12"></rect>
+                        <rect id="Rectangle-291-Copy-21" x="32" y="146" width="31" height="31"></rect>
+                        <rect id="Rectangle-291-Copy-25" x="17" y="83" width="21" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-26" transform="translate(60.500000, 86.000000) scale(1, -1) translate(-60.500000, -86.000000) " x="50" y="83" width="21" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-27" transform="translate(94.500000, 86.000000) scale(1, -1) translate(-94.500000, -86.000000) " x="84" y="83" width="21" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-28" transform="translate(127.500000, 86.000000) scale(1, -1) translate(-127.500000, -86.000000) " x="117" y="83" width="21" height="6"></rect>
+                    </g>
+                    <g id="iphone" transform="translate(553.000000, 292.000000)" stroke="#232323" fill="#FFFFFF">
+                        <path d="M60.3909881,153.027277 C66.5151667,153.027277 71.4800357,148.056644 71.4800357,141.925356 L71.5130595,11.102791 C71.5130595,4.97063277 66.5481905,0 60.4240119,0 L11.1220714,0 C4.9987619,0 0.0330238095,4.97063277 0.0330238095,11.102791 L0,141.925356 C0,148.056644 4.9657381,153.027277 11.0890476,153.027277 L60.3909881,153.027277 L60.3909881,153.027277 Z" id="Fill-1"></path>
+                        <path d="M28.6336548,141.694443 C28.6336548,145.436556 31.6579405,148.464353 35.3957143,148.464353 C39.13175,148.464353 42.1577738,145.436556 42.1577738,141.694443 C42.1577738,137.95407 39.13175,134.926273 35.3957143,134.926273 C31.6579405,134.926273 28.6336548,137.95407 28.6336548,141.694443 L28.6336548,141.694443 Z" id="Clip-5"></path>
+                        <path d="M67,132 L3,132 L3,22 L66.9945169,22.0070808 L67,132 L67,132 Z" id="Fill-7"></path>
+                        <path d="M37.707381,143.375392 C37.707381,143.728635 37.4258095,144.012273 37.0729762,144.012273 L33.7201905,144.012273 C33.365619,144.012273 33.0840476,143.728635 33.0840476,143.375392 L33.0840476,140.017844 C33.0840476,139.661991 33.365619,139.380093 33.7201905,139.380093 L37.0729762,139.380093 C37.4258095,139.380093 37.707381,139.661991 37.707381,140.017844 L37.707381,143.375392 L37.707381,143.375392 Z" id="Stroke-8"></path>
+                        <path d="M29.8190357,12.4875729 C28.9786667,12.4875729 28.2982024,13.1705672 28.2982024,14.0119119 C28.2982024,14.8532565 28.9786667,15.5336407 29.8190357,15.5336407 L41.0453929,15.5336407 C41.8848929,15.5336407 42.5653571,14.8532565 42.5653571,14.0119119 C42.5653571,13.1705672 41.8848929,12.4875729 41.0453929,12.4875729 L29.8190357,12.4875729 L29.8190357,12.4875729 Z" id="Clip-12"></path>
+                        <path d="M9.5,87.5 L60.5,87.5" id="Path-282-Copy-7"></path>
+                        <path d="M57,36 L57,43 L13,43 L13,36" id="Rectangle-291-Copy-10"></path>
+                        <path d="M4,36 L67,36" id="Path-282-Copy-5"></path>
+                        <rect id="Rectangle-291-Copy-23" x="21" y="78" width="29" height="5"></rect>
+                        <rect id="Rectangle-291-Copy-24" x="11" y="94" width="48.5" height="17.8365842"></rect>
+                        <rect id="Rectangle-291-Copy-22" x="29" y="26" width="14" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-33" x="9" y="25" width="8" height="6"></rect>
+                        <rect id="Rectangle-291-Copy-11" x="30" y="60" width="10.4399996" height="10"></rect>
+                        <g id="Path-282-Copy-9-+-Path-282-Copy-10-Copy" transform="translate(56.000000, 26.000000)">
+                            <path d="M0.5,4 L6,4" id="Path-282-Copy-9"></path>
+                            <path d="M0.5,1 L6,1" id="Path-282-Copy-10"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

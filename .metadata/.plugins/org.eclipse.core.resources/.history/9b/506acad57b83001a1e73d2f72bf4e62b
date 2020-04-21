@@ -1,0 +1,10 @@
+package dev.wsd.entities;
+
+public class Reimbursement {
+
+	int id;
+	DepartmentEmployee submitEmp = new DepartmentEmployee();
+	DepartmentEmployee approvalEmp = new DepartmentEmployee();
+float amount ;
+short status ;
+}

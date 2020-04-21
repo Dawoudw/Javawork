@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="30px" viewBox="0 0 100 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>bg-stroke-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-190.000000, -602.000000)" stroke-opacity="0.801743659" stroke="#FFFFFF" stroke-width="12">
+            <g id="hero-section" sketch:type="MSLayerGroup" transform="translate(79.500000, 50.000000)">
+                <g id="BG-strokes" transform="translate(0.500000, 8.000000)" sketch:type="MSShapeGroup">
+                    <path d="M116,559 C116,554.17563 119.939894,550.264706 124.8,550.264706 C129.660106,550.264706 133.6,554.17563 133.6,559 C133.6,563.82437 137.539894,567.735294 142.4,567.735294 L142.4,567.735294 C147.260106,567.735294 151.2,563.82437 151.2,559 C151.2,554.17563 155.139894,550.264706 160,550.264706 C164.860106,550.264706 168.8,554.17563 168.8,559 C168.8,563.82437 172.739894,567.735294 177.6,567.735294 C182.460106,567.735294 186.4,563.82437 186.4,559 C186.4,554.17563 190.339894,550.264706 195.2,550.264706 C200.060106,550.264706 204,554.17563 204,559" id="bg-stroke-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

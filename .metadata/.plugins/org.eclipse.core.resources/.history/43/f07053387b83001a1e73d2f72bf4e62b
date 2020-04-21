@@ -1,0 +1,22 @@
+package dev.wael.dao.test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.sql.SQLException;
+
+import org.junit.jupiter.api.Test;
+
+import dev.wael.controllers.*;
+import dev.wsd.entities.*;
+
+class AdminTest {
+
+	@Test
+	void test() {
+		Controller c = new Controller();
+		User user = c.getuserbyId(0);
+		user.printOptions();
+		assertFalse(user == null);
+	}
+
+}

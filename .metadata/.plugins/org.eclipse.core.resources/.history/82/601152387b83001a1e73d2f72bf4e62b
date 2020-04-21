@@ -1,0 +1,8 @@
+package dev.wsd.entities;
+
+public class Reimbursement {
+
+	DepartmentEmployee submitEmp = new DepartmentEmployee();
+	DepartmentEmployee approvalEmp = new DepartmentEmployee();
+
+}

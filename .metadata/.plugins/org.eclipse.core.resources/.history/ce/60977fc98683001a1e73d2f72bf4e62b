@@ -1,0 +1,16 @@
+package dev.wsd.daos;
+
+import java.util.ArrayList;
+
+import dev.wsd.entities.DepartmentEmployee;
+
+public interface IDepartmentEmployee {
+
+	public DepartmentEmployee getDepartmentEmployeeById(int id);
+
+	public DepartmentEmployee getDepartmentEmployeeByUserId(int id);
+
+	public ArrayList<DepartmentEmployee> getAllDepEmployeesByDepId(int id);
+
+	public ArrayList<DepartmentEmployee> getAllDepEmployees();
+}

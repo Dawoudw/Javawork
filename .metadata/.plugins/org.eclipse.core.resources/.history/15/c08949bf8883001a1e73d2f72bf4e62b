@@ -1,0 +1,29 @@
+package dev.wsd.daos;
+
+import java.util.ArrayList;
+
+import dev.wsd.entities.Reimbursement;
+import dev.wsd.enums.REIMBURSEMENT_STATUS;
+
+public interface IReimbursementDAO {
+
+	public abstract Reimbursement addReimbursement(Reimbursement reimbursmnt);
+
+	public abstract boolean updateReimbursement(Reimbursement reimbursmnt);
+
+	public abstract boolean changeReimbursementStatus(REIMBURSEMENT_STATUS status);
+
+	public abstract ArrayList<Reimbursement> getAllReimbursements();
+
+	public abstract Reimbursement getReimbursementById(int id);
+
+	public abstract ArrayList<Reimbursement> getAllReimbursementsByEmployeeId(int employeeId);
+
+	public abstract ArrayList<Reimbursement> getAllReimbursementsByApproverId(int approverId);
+
+	public abstract float getAvgReimbursements();
+
+	public abstract float getTotalApprovedGroupByManger();
+
+	public abstract float getTotalDeniedGroupByManger();
+}

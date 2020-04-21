@@ -1,0 +1,8 @@
+package dev.wsd.daos;
+
+import dev.wsd.entities.DepartmentEmployee;
+
+public interface IDepartmentEmployee {
+
+	public DepartmentEmployee getDepartmentEmployeeById(int id);
+}
