@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<publish-info>
-  <server id="Tomcat09 at localhost (3)" path="publish3.dat"/>
-  <server id="Tomcat09 at localhost" path="publish1.dat"/>
-  <server id="Tomcat09 at localhost (2)" path="publish2.dat"/>
-</publish-info>

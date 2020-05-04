@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-D:\Work\Revature\Repository\Javawork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2095783133.index
-\ExpenseReimbursementSystem\src\test\java
-D:\Work\Revature\Repository\Javawork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\267560341.index
-\ExpenseReimbursement\src\main\jav
-D:\Work\Revature\Repository\Javawork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1175222773.index
-\ServletAdvanced\src\main\java
