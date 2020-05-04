@@ -1,8 +1,0 @@
-package dev.wsd.entities;
-
-public class DepartmentEmployee {
-	int id;
-	int userId;
-	int departmentId;
-	boolean isManager;
-}

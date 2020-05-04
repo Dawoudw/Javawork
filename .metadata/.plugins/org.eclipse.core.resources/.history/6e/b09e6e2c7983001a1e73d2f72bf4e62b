@@ -1,7 +1,0 @@
-package dev.wsd.entities;
-
-public class Reimbursement {
-
-	DepartmentEmployee submitEmp = null;
-
-}

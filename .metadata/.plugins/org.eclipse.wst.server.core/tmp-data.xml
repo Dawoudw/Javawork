@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <temp-directories>
-  <temp-directory age="0" key="Tomcatv9Server1" path="tmp0" recycle="false"/>
+  <temp-directory age="0" key="Tomcat09 at localhost (3)" path="tmp3" recycle="false"/>
+  <temp-directory age="0" key="Tomcat09 at localhost" path="tmp1" recycle="false"/>
+  <temp-directory age="0" key="Tomcat09 at localhost (2)" path="tmp2" recycle="false"/>
 </temp-directories>

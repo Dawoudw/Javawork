@@ -1,6 +1,0 @@
-127.0.0.1 - - [18/Apr/2020:22:33:58 -0400] "GET / HTTP/1.1" 404 709
-0:0:0:0:0:0:0:1 - - [18/Apr/2020:22:33:59 -0400] "GET /Project0WebApp/ HTTP/1.1" 200 3470
-0:0:0:0:0:0:0:1 - - [18/Apr/2020:22:33:59 -0400] "GET /Project0WebApp/tableCss.css HTTP/1.1" 200 1541
-127.0.0.1 - - [18/Apr/2020:22:41:44 -0400] "GET / HTTP/1.1" 404 709
-0:0:0:0:0:0:0:1 - - [18/Apr/2020:22:41:45 -0400] "GET /ExpenseReimbursementSystem/ HTTP/1.1" 200 3470
-0:0:0:0:0:0:0:1 - - [18/Apr/2020:22:41:45 -0400] "GET /ExpenseReimbursementSystem/tableCss.css HTTP/1.1" 200 1541

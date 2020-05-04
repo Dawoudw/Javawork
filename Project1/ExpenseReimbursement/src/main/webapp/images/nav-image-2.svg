@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="165px" height="134px" viewBox="0 0 165 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>nav-image-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="v7" sketch:type="MSArtboardGroup" transform="translate(-638.000000, -146.000000)">
+            <g id="hero-section" sketch:type="MSLayerGroup" transform="translate(79.500000, 50.000000)">
+                <g id="2" transform="translate(468.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="nav-image-2" transform="translate(88.000000, 70.000000)">
+                        <rect id="bg" x="0" y="0" width="170" height="180"></rect>
+                        <rect id="Rectangle-310" stroke="#232323" fill="#FFFFFF" x="3" y="27" width="164" height="132"></rect>
+                        <rect id="Rectangle-310-Copy" stroke="#232323" fill="#FFFFFF" x="17" y="59" width="68" height="82"></rect>
+                        <path d="M20,105 L20,88 L37,88" id="Rectangle-312" stroke="#232323" fill="#FFFFFF" transform="translate(28.500000, 96.500000) rotate(-315.000000) translate(-28.500000, -96.500000) "></path>
+                        <path d="M65,105 L65,88 L82,88" id="Rectangle-312-Copy-2" stroke="#232323" fill="#FFFFFF" transform="translate(73.500000, 96.500000) rotate(-315.000000) translate(-73.500000, -96.500000) "></path>
+                        <path d="M27,140 L27,92 L75,92" id="Rectangle-312-Copy-4" stroke="#232323" fill="#FFFFFF" transform="translate(51.000000, 116.000000) rotate(-315.000000) translate(-51.000000, -116.000000) "></path>
+                        <path d="M26,91 L26,85 L32,85" id="Rectangle-312-Copy" stroke="#232323" fill="#FFFFFF" transform="translate(29.000000, 88.000000) rotate(-135.000000) translate(-29.000000, -88.000000) "></path>
+                        <path d="M71,92 L71,86 L77,86" id="Rectangle-312-Copy-3" stroke="#232323" fill="#FFFFFF" transform="translate(74.000000, 89.000000) rotate(-135.000000) translate(-74.000000, -89.000000) "></path>
+                        <path d="M42,103 L42,93.7959472 L49.9738665,92.9973445 L50.4883143,85 L60,85" id="Rectangle-312-Copy-5" stroke="#232323" fill="#FFFFFF" transform="translate(51.000000, 94.000000) rotate(-135.000000) translate(-51.000000, -94.000000) "></path>
+                        <path d="M4.61328125,47.6894531 L166.822166,47.6894531" id="Path-302" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,60 L153,60" id="Path-302-Copy" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,99 L153,99" id="Path-302-Copy-5" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,73 L146,73" id="Path-302-Copy-2" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,125 L146,125" id="Path-302-Copy-7" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,86 L135,86" id="Path-302-Copy-3" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,112 L135,112" id="Path-302-Copy-6" stroke="#232323" fill="#FFFFFF"></path>
+                        <path d="M94,138 L108,138" id="Path-302-Copy-4" stroke="#232323" fill="#FFFFFF"></path>
+                        <circle id="Oval-1200" stroke="#232323" fill="#FFFFFF" cx="21" cy="37" r="3"></circle>
+                        <circle id="Oval-1200-Copy" stroke="#232323" fill="#FFFFFF" cx="34" cy="37" r="3"></circle>
+                        <circle id="Oval-1200-Copy-2" stroke="#232323" fill="#FFFFFF" cx="47" cy="37" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

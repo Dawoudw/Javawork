@@ -1,9 +1,0 @@
-package dev.wsd.daos;
-
-import dev.wsd.entities.Reimbursement;
-
-public interface IReimbursementDAO {
-
-	public abstract Reimbursement addReimbursement(Reimbursement reimbursmnt);
-	public abstract boolean updateReimbursement(Reimbursement reimbursmnt);
-}

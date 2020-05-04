@@ -1,0 +1,183 @@
+<html>
+
+<head>
+
+  <title>Empoyees Reimbursements</title>
+
+
+
+  <link rel="stylesheet" type="text/css" href="css/webflow.css">
+  <link rel="stylesheet" type="text/css" href="css/my.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+
+  <style>
+    .input-submit1 {
+      width: 400px;
+      height: 75px;
+      ;
+      background-color: #1a1818;
+      color: #f8f880;
+      padding: 16px 26px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      display: inline-block;
+      font-size: 40px;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div id="hero" data-ix="arrow" class="w-section ">
+    <div>
+
+      <img src="images/money6.svg" data-ix="bg-stroke-5" class="bg-stroke-2 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-5px) translateY(35px) rotate(-30deg);">
+      <img src="images/number-1.svg" data-ix="bg-stroke-3" class="bg-stroke-8  anmie-0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-13px) translateY(-35px) rotate(30deg);">
+      <img src="images/money3.svg" data-ix="bg-stroke-4" class="bg-stroke-9 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(12px) translateY(4px) rotate(-30deg);">
+      <img src="images/nine.svg" data-ix="bg-stroke-2" class="bg-stroke-2 anmie2 "
+        style="transition: transform 20000ms ease 0s; transform: translateX(-9px) translateY(-27px);">
+      <img src="images/one.svg" data-ix="bg-stroke-5" class="bg-stroke-10 anmie1"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-5px) translateY(35px) rotate(-30deg);">
+      <img src="images/money4.svg" data-ix="bg-stroke-3" class="bg-stroke-3 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-13px) translateY(-35px) rotate(30deg);">
+      <img src="images/money2.svg" data-ix="bg-stroke-4" class="bg-stroke-12 anmie-0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(12px) translateY(4px) rotate(-30deg);">
+      <img src="images/three.svg" data-ix="bg-stroke-2" class="bg-stroke-5 anmie1"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-9px) translateY(-27px);">
+      <img src="images/seven.svg" data-ix="bg-stroke-4" class="bg-stroke-5 anmie2"
+        style="transition: transform 20000ms ease 0s; transform: translateX(12px) translateY(4px) rotate(-30deg);">
+      <img src="images/calculator.svg" data-ix="bg-stroke-5" class="bg-stroke-14 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-5px) translateY(35px) rotate(-30deg);">
+      <img src="images/money6.svg" data-ix="bg-stroke-1" class="bg-stroke-11 anmie-0 "
+        style="transition: transform 20000ms ease 0s; transform: translateX(5px) translateY(25px) rotate(-130deg);">
+      <img src="images/money3.svg" data-ix="bg-stroke-5" class="bg-stroke-15   anmie-0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-5px) translateY(35px) rotate(-30deg);">
+      <img src="images/number-2.svg" data-ix="bg-stroke-3" class="bg-stroke-1 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-13px) translateY(-35px) rotate(30deg);">
+      <img src="images/number-2.svg" data-ix="bg-stroke-3" class="bg-stroke-7 anmie-0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(-13px) translateY(-35px) rotate(30deg);">
+      <img src="images/money1.svg" data-ix="bg-stroke-1" class="bg-stroke-6 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(5px) translateY(25px) rotate(-130deg);">
+      <img src="images/ten.svg" data-ix="bg-stroke-1" class="bg-stroke-10 anmie1"
+        style="transition: transform 20000ms ease 0s; transform: translateX(5px) translateY(25px) rotate(-130deg);">
+      <img src="images/money2.svg" data-ix="bg-stroke-4" class="bg-stroke-13 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(12px) translateY(4px) rotate(-30deg);">
+      <img src="images/money4.svg" data-ix="bg-stroke-1" class="bg-stroke-16 anmie-0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(5px) translateY(25px) rotate(-130deg);">
+      <img src="images/money1.svg" data-ix="bg-stroke-1" class="bg-stroke-10 anmie0"
+        style="transition: transform 20000ms ease 0s; transform: translateX(5px) translateY(25px) rotate(-130deg);">
+    </div>
+    <img src="images/calculator.svg" class="logo" style=" top:180px">
+    <span class="logo" style="margin-top:-30px; padding-block-start: 15px;font-size:30px; 
+ 
+    writing-mode: vertical-lr;
+  text-orientation: upright;
+    text-transform:uppercase ;text-overflow: ellipsis;">Expenses
+      Reimbursement System</span>
+    <div id="diverror" class="alert" style="display:none; ">
+      <pre>Fail! Your Reimbursement Submission Failed Please Try Again.</pre>
+    </div>
+    <div class="w-row w-hidden-medium w-hidden-small w-hidden-tiny nav-row">
+
+
+      <div id="divEmpLogin" class="w-col w-col-6" style="margin:3% 25%;">
+        <img src="/ExpenseReimbursement/images/admin1.svg" style="width: 400px; height: 370px;">
+
+        <input id="txtEmpName" type="text" placeholder="Username" class="input-text">
+        <input id="txtEmpPass" type="password" placeholder="Password" class="input-text">
+        <input id="btnEmplogin" type="button" onclick="doLogin()" value="Login" class="input-submit1">
+        <br>
+        <span id="spninfo" style="color: crimson; font-size: 20px;"></span>
+      </div>
+
+
+
+    </div>
+
+    <a href="#hero" class="w-inline-block arrow w--current"><img src="images/arrow.svg" class="arrow-icon"
+        style="transition: transform 0.5s ease 0s, transform 500ms ease 0s; transform: rotate(0deg);">
+    </a>
+  </div>
+  <div data-ix="move-nav" class="w-section main-content">
+
+    <div id="work" data-ix="move-nav-work" class="work-section">
+
+    </div>
+
+  </div>
+
+
+
+
+  <script>
+    async function doLogin() {
+      let txtname = document.getElementById("txtEmpName").value;
+      let txtpass = document.getElementById("txtEmpPass").value;
+      let spninfo = document.getElementById("spninfo");
+
+      let httpResponse = await fetch("http://localhost:8080/ExpenseReimbursement/ReimbursementServ/login?username=" + txtname + "&password=" + txtpass);
+      if (httpResponse.ok) {
+        let body = await httpResponse.text();
+        if (httpResponse.ok && body !== "false") {
+          let jsn = JSON.parse(body);
+          alert(jsn.isManager);
+          let userObjectString = JSON.stringify({ "id": jsn.id, "fname": jsn.fname, "lname": jsn.lname, "email": jsn.email, "dep": jsn.department.name, "isManager": jsn.isManager, "isAdmin": jsn.isAdmin });
+          window.sessionStorage.setItem("jsn", userObjectString);
+          console.log("JSON.parse " + jsn);
+          console.log("Resonse Body " + body);
+          if (jsn.isManager === 'true' || jsn.isManager == 'true' ||jsn.isManager)
+           { window.location.href = "http://localhost:8080/ExpenseReimbursement/Manager.html"; }
+          else { window.location.href = "http://localhost:8080/ExpenseReimbursement/Employee.html"; }
+        }
+
+        else {
+          spninfo.innerText = "Worng Username or Password ...";
+
+        }
+      }
+      else {
+        spninfo.innerText = "Opps ! , Something wrong happened ...";
+
+
+      }
+    }
+
+
+
+
+
+  </script>
+
+
+
+  <script>
+
+    // START HERO PARALLAX REGULAR
+
+
+        // END HERO PARALLAX REGULAR
+
+
+    /*   var obj = {a: 1, b: 2, c: {a: 1, b: 2}};
+function walk(obj) {
+ for (var key in obj) {
+   if (obj.hasOwnProperty(key)) {
+     var val = obj[key];
+     console.log(val);
+     walk(val);
+   }
+ }
+}
+walk(obj);
+*/
+  </script>
+
+</body>
+
+</html>

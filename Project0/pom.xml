@@ -6,6 +6,7 @@
 	<artifactId>Project0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>Bank Assignment</description>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.mariadb.jdbc</groupId>

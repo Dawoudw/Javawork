@@ -6,8 +6,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="D:\Work\Revature\Repository\Javawork\Project1\ExpenseReimbursementSystem"/>
-			<item value="D:\Work\Revature\Repository\Javawork\Project1\Nelu Cebotari - a multidisciplinary designer focused on ui_ux design and branding_files"/>
+			<item value="D:\Work\Revature\Repository\Javawork\Project0"/>
+			<item value="D:\Work\Revature\Repository\Javawork\Project1\Old"/>
+			<item value="D:\Work\Revature\Repository\2003CUNY\master_local\ToDoListApp"/>
+			<item value="D:\Work\Revature\Repository\2003CUNY\master_local\ServletAdvanced"/>
 			<item value="D:\Work\Revature\Repository\Javawork"/>
 		</list>
 	</section>
@@ -17,7 +19,10 @@
 			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
-	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
-		<item key="OUTSIDE_LOCATION" value="D:\Work\Revature\Repository\Javawork\Project1"/>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

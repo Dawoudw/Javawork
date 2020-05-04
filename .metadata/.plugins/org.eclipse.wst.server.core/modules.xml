@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<modules>
-  <module moduleId="org.eclipse.jst.j2ee.server:SimpleWebApp" serverId="WSDServer"/>
-  <module moduleId="org.eclipse.jst.j2ee.server:Project0WebApp" serverId="WSDServer"/>
-</modules>

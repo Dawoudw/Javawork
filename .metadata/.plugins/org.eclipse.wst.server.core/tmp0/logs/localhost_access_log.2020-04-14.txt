@@ -1,8 +1,0 @@
-127.0.0.1 - - [14/Apr/2020:23:13:23 -0400] "GET / HTTP/1.1" 404 709
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:13:24 -0400] "GET /Project0WebApp/TestSv HTTP/1.1" 404 734
-127.0.0.1 - - [14/Apr/2020:23:18:07 -0400] "GET / HTTP/1.1" 404 709
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:18:08 -0400] "GET /Project0WebApp/UserServ HTTP/1.1" 200 1191
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:18:21 -0400] "GET /Project0WebApp/UserServ?=1 HTTP/1.1" 200 1191
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:18:32 -0400] "GET /Project0WebApp/UserServ?id=1 HTTP/1.1" 200 104
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:18:39 -0400] "GET /Project0WebApp/UserServ/?id=1 HTTP/1.1" 200 104
-0:0:0:0:0:0:0:1 - - [14/Apr/2020:23:18:42 -0400] "GET /Project0WebApp/UserServ/?id HTTP/1.1" 200 1191

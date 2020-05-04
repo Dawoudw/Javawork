@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Work\Revature\Repository\Javawork\Project1\ExpenseReimbursementSystem"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,15 +30,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="dev.wael.ToDoWebApp"/>
-			<item value="dev.wael.SimpleWebApp"/>
+			<item value="dev.wsd.ExpenseReimbursement"/>
+			<item value="dev.wsd.ExpenseReimbursementSystem"/>
+			<item value="ee.ee"/>
 		</list>
 		<list key="groupId">
-			<item value="dev.wael"/>
+			<item value="dev.wsd"/>
+			<item value="ee"/>
 		</list>
 		<list key="artifactId">
-			<item value="ToDoWebApp"/>
-			<item value="SimpleWebApp"/>
+			<item value="ExpenseReimbursement"/>
+			<item value="ExpenseReimbursementSystem"/>
+			<item value="ee"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -65,17 +73,5 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-		<list key="ciManagementUrl">
-		</list>
-		<list key="ciManagementSystem">
-		</list>
-		<list key="issueManagementSystem">
-		</list>
-		<list key="issueManagementUrl">
-		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
