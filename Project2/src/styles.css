@@ -1,0 +1,15 @@
+ 
+ 
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.divrows {
+    display: flex;
+    flex-direction: row;
+}
+
+.divcolumns {
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+ 

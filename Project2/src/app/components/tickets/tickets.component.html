@@ -1,0 +1,23 @@
+<section id="gallery" class="templatemo-section templatemo-light-gray-bg">
+
+
+    <!-- <div class="container">
+        <div class="rows">
+            <div class="columns" *ngFor="let tic of tickets ; let index = index ;">
+                <app-ticketitem [ticket]='tic '></app-ticketitem>
+                {{ index % 3 }}
+
+            </div>
+        </div>
+    </div> -->
+    <div class="container">
+        <h1 style="text-align: center;">tickets </h1>
+        <div class="cardList">
+            <ng-container *ngFor="let tic of tickets">
+                <app-ticketitem class="cardListItem" [ticket]='tic '></app-ticketitem>
+
+            </ng-container>
+        </div>
+    </div>
+
+</section>

@@ -1,0 +1,22 @@
+<div class="table ">
+   <div class="columns">
+      <div class="columns">
+         <b> Ticket Number# {{ ticket.ticketId}} </b>
+          
+         <b style=" position:sticky;left:80%; " > <a href="#"> Details </a> </b>
+      
+      </div>
+      <div class="">
+         <b> Status: </b> {{ ticket.status}}
+      </div>
+      <div class="">
+         <b> Time: </b> {{ ticket.placementTime|dateTimeFormat}}
+      </div>
+      <div class="">
+         <b> Notes:</b> {{ ticket.note}}
+      </div>
+   
+   </div>
+
+   
+</div>
