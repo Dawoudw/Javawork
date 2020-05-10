@@ -17,6 +17,7 @@ h1,h2, h3, h4,
   color: #ffa400;
   font-family: 'Chewy', cursive;
   font-weight: 400;
+   margin-top: 1%;
 }
 
 .navbar-default .navbar-nav>.active>a, 

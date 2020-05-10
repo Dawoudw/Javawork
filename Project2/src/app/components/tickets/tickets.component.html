@@ -1,23 +1,58 @@
-<section id="gallery" class="templatemo-section templatemo-light-gray-bg">
+<section id="sec_tickets" class="templatemo-section templatemo-light-gray-bg">
 
 
     <!-- <div class="container">
-        <div class="rows">
-            <div class="columns" *ngFor="let tic of tickets ; let index = index ;">
-                <app-ticketitem [ticket]='tic '></app-ticketitem>
-                {{ index % 3 }}
+        <div class="cardList">
+            <div class="" *ngFor="let tic of tickets ; let index = index ;">
+                <div class="cardListItem">
+                    <app-ticketitem [ticket]='tic' [IsEmployee]='false'></app-ticketitem>
+                </div>
 
             </div>
         </div>
-    </div> -->
+    </div>   -->
     <div class="container">
-        <h1 style="text-align: center;">tickets </h1>
-        <div class="cardList">
-            <ng-container *ngFor="let tic of tickets">
-                <app-ticketitem class="cardListItem" [ticket]='tic '></app-ticketitem>
+        <div class="form-group">
+            <h1 style="text-align: center;">Tickets History </h1>
 
-            </ng-container>
+          
+
+
+
+                <b style="  margin-left: 10px; margin-bottom: 20px; margin-right: 10px;">Change Layout:</b>
+                <select style="width: 150px;height: 27px;  ; margin-bottom: 20px; margin-right: 20px;" #ddlViewLayout class="" [(ngModel)]="SelectedView">
+                    <option *ngFor="let item of LayoutList" [value]="item.id"> {{item.name}} </option>
+                </select>
+                <b  style="  margin-left: 10px; margin-bottom: 20px; margin-right: 10px;"> Status: </b>
+                <!--    set  IsEmployee=true to show the Status dropdownlist  , and false to hide it -->
+                <select  style="width: 150px;height: 27px;  ; margin-bottom: 20px;" #ddlstatus [(ngModel)]="SelectedStatus" (ngModelChange)="getUserTicketsbyStatus() ">
+                    <option *ngFor="let st of Statuslist" [value]="st.id">{{st.status}}</option>
+                </select>
+             
+                <ng-container *ngIf=" SelectedView == 1; then TableView; else  CardView">
+                </ng-container>
+
+            
+
+            <ng-template #TableView>
+                <div class=" " *ngFor="let tic of filterList">
+                    <app-ticketitem class=" " [ticket]='tic' [Layout]=SelectedView [LayoutContainer]="'rows'"
+                        [LayoutItem]="'columns'" [IsEmployee]='false'>
+                    </app-ticketitem>
+                </div>
+            </ng-template>
+            <ng-template #CardView>
+
+                <div class="container">
+                    <div class="cardList">
+                        <ng-container *ngFor="let tic of filterList">
+                            <app-ticketitem class="cardListItem" [ticket]='tic' [Layout]=SelectedView
+                                [LayoutContainer]="''" [LayoutItem]="'columns '" [IsEmployee]='false'></app-ticketitem>
+                        </ng-container>
+                    </div>
+                </div>
+
+            </ng-template>
         </div>
     </div>
-
 </section>

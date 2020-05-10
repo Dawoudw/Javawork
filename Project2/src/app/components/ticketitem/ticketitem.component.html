@@ -1,10 +1,11 @@
-<div class="table ">
-   <div class="columns">
+<div class=" ">
+   <!-- <div class="columns">
       <div class="columns">
          <b> Ticket Number# {{ ticket.ticketId}} </b>
-          
-         <b style=" position:sticky;left:80%; " > <a href="#"> Details </a> </b>
-      
+
+         <b style=" position:sticky;left:80%; "> <a id="lnk{{ ticket.ticketId}}" href="#" (click)="openModal()"> Details
+            </a> </b>
+
       </div>
       <div class="">
          <b> Status: </b> {{ ticket.status}}
@@ -12,11 +13,119 @@
       <div class="">
          <b> Time: </b> {{ ticket.placementTime|dateTimeFormat}}
       </div>
-      <div class="">
-         <b> Notes:</b> {{ ticket.note}}
-      </div>
-   
-   </div>
 
-   
+      <div class="">
+
+         <b> Notes:</b> {{ticket.note}}
+      </div>
+
+   </div>   -->
+   <div class="{{LayoutContainer}}">
+      <div class="{{LayoutItem}}">
+         <b> Ticket Number# {{ ticket.ticketId}} </b>
+
+         <b *ngIf="Layout== 2" style=" position:sticky;left:80%; "> <a id="lnk{{ ticket.ticketId}}" href="#"
+               (click)="openModal()"> Details
+            </a> </b>
+
+      </div>
+      <div class="{{LayoutItem}}">
+         <b> Status: </b> {{ ticket.status}}
+      </div>
+      <div class="{{LayoutItem}}">
+         <b> Time: </b> {{ ticket.placementTime|dateTimeFormat}}
+      </div>
+
+      <div class="{{LayoutItem}}">
+
+         <b> Notes:</b> {{ticket.note}}
+      </div>
+      <div class="{{LayoutItem}}" >
+
+
+         <b *ngIf="Layout == 1" style=" position:static;  "> <a id="lnk{{ ticket.ticketId}}" href="#"
+               (click)="openModal()"> Details
+            </a> </b>
+      </div>
+
+   </div>
+   <jw-modal id="{{ ticket.ticketId}}">
+      <div id="div{{ ticket.ticketId}}" class="rows">
+         <h1> Ticket Number# <b style="color: rgb(236, 130, 68);">{{ ticket.ticketId}}</b></h1>
+         <p class="xbtn" (click)="closeModal();">X</p>
+      </div>
+      <section class="container">
+
+         <div class="">
+            <b> Time: </b> {{ ticket.placementTime|dateTimeFormat}}
+            <b style=" position:sticky;left:80%; "> <a #btnEdit *ngIf="isVisable" href="#" (click)="editMode()"> Edit
+               </a> </b>
+
+            <b style=" position:sticky;left:77%; "> <a #btnCancel *ngIf="!isVisable" href="#"
+                  (click)="viewMode(ticket.note,ticket.status)">
+                  Cancel
+               </a> </b>
+            <b style=" position:sticky;left:70%; "> <a #btnSave *ngIf="!isVisable" href="#"
+                  (click)="updateTicket(ticket)">
+                  Save
+               </a> </b>
+         </div>
+         <div class="">
+            <b> Total Price: {{totalprice|currency:'USD'}}</b>
+         </div>
+
+         <div class="">
+            <b> Status: </b> <!--    set  IsEmployee=true to show the Status dropdownlist  , and false to hide it -->
+            <select #ddlstatus [(ngModel)]="ticket.status" [class.txtareaactive]="(IsEmployee)"
+               [class.txtareaInactive]="(!IsEmployee)">
+               <option *ngFor="let st of Statuslist" [value]="st.id">{{st.status}}</option>
+            </select>
+         </div>
+
+         <div class="" style="display: flex;">
+            <!-- <b> Notes:</b> {{ ticket.note}} -->
+            <b> Notes: </b>
+            <textarea #txtnotes1 [class.txtareaactive]="!isVisable" [class.txtareaInactive]="isVisable" ref-textarea
+               [(ngModel)]="ticket.note" rows="2" cols="60">
+            </textarea>
+         </div>
+
+         <div class="rows">
+            <div class="columns">
+               <h1 style="text-align: center;">Your Ticket Pizza(s) </h1>
+               <div class="cardList">
+                  <ng-container *ngFor="let p of pizzas ; let i = index   " | async>
+
+                     <!-- <app-ticketitem class="cardListItem" [ticket]='tic '></app-ticketitem> -->
+                     <div class="cardListItem">
+                        <div class="table ">
+                           <div class="cardListItem">
+                              <div class="columns"><b>Pizza # </b> {{ i+1}}</div>
+                              <div class="rows">
+                                 <div class="columns">
+                                    <b> Topping </b>
+                                 </div>
+                                 <div class="columns">
+                                    <b> Cost </b>
+                                 </div>
+                              </div>
+                              <ng-container *ngFor="let t of p.toppings" | async>
+                                 <div class="rows">
+                                    <div class="columns"> {{ t.toppingName}}</div>
+                                    <div class="columns"> {{ t.toppingCost|currency:'USD'  }}</div>
+                                 </div>
+                              </ng-container>
+                              <div class="columns"><b>Total: </b>{{sumtopping(p.toppings)|currency:'USD'}} </div>
+                           </div>
+                        </div>
+                     </div>
+                  </ng-container>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+   </jw-modal>
+
 </div>

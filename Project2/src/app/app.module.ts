@@ -12,7 +12,7 @@ import { RegisterComponent } from './components/register/register.component';
 import { UserRoleComponent } from './components/user-role/user-role.component';
 import { UserComponent } from './components/user/user.component';
 import { ToppingComponent } from './components/topping/topping.component';
-import { CurrencyPipe } from './pipes/currency.pipe';
+ 
 import { TimestampPipe } from './pipes/timestamp.pipe';
 import { APP_BASE_HREF } from '@angular/common';
 import { GalleryComponent } from './components/gallery/gallery.component';
@@ -21,7 +21,10 @@ import { ContactComponent } from './components/contact/contact.component';
 import { TicketitemComponent } from './components/ticketitem/ticketitem.component';
 import { EvenoddPipe } from './pipes/evenodd.pipe';
 import { TicketdetailsComponent } from './components/ticketdetails/ticketdetails.component';
-
+import { ModalComponent } from './components/modal/modal.component';
+import { FooterComponent } from './components/footer/footer.component';
+ 
+ 
 
 
 
@@ -35,14 +38,15 @@ import { TicketdetailsComponent } from './components/ticketdetails/ticketdetails
     UserRoleComponent,
     UserComponent,
     ToppingComponent,
-    CurrencyPipe,
     TimestampPipe,
     GalleryComponent,
     AboutComponent,
     ContactComponent,
     TicketitemComponent,
     EvenoddPipe,
-    TicketdetailsComponent
+    TicketdetailsComponent,
+    ModalComponent,
+    FooterComponent 
   ],
   imports: [
     BrowserModule,
